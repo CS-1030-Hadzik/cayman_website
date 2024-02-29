@@ -51,9 +51,9 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
+| Class        | Description         | time |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| CS103        | Intro to CS  | 5:30  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
