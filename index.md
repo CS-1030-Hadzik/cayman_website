@@ -100,6 +100,10 @@ end
 
 ![Scott Hadzik](images/scott.jpg)
 
+<img src="images/scott.jpg" alt="Scott Hadzik">
+
+
+
 
 ### Definition lists can be used with HTML syntax.
 
